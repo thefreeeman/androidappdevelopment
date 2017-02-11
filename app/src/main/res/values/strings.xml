@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TMNS KISS Planner</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_test">Submit Idea</string>
+</resources>
